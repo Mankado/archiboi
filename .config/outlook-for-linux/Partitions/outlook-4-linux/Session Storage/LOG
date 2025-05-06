@@ -1,0 +1,12 @@
+2025/05/05-12:10:21.723 978 Reusing MANIFEST /home/tomingo/.config/outlook-for-linux/Partitions/outlook-4-linux/Session Storage/MANIFEST-000001
+2025/05/05-12:10:21.724 978 Recovering log #23
+2025/05/05-12:10:21.725 978 Reusing old log /home/tomingo/.config/outlook-for-linux/Partitions/outlook-4-linux/Session Storage/000023.log 
+2025/05/05-12:21:22.778 979 Level-0 table #28: started
+2025/05/05-12:21:22.786 979 Level-0 table #28: 38495 bytes OK
+2025/05/05-12:21:22.788 979 Delete type=0 #23
+2025/05/05-13:39:02.730 653e Level-0 table #30: started
+2025/05/05-13:39:02.733 653e Level-0 table #30: 44977 bytes OK
+2025/05/05-13:39:02.734 653e Delete type=0 #27
+2025/05/05-18:02:17.920 14ee9 Level-0 table #32: started
+2025/05/05-18:02:17.921 14ee9 Level-0 table #32: 31143 bytes OK
+2025/05/05-18:02:17.922 14ee9 Delete type=0 #29

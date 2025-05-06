@@ -1,0 +1,189 @@
+@import "./mixines/transition.scss";
+
+window {
+  background-color: $base;
+  color: $color00;
+}
+
+.bar {
+  padding: 4px 15px;
+}
+
+button {
+  padding: 1px 15px;
+  color: white;
+  border: none;
+  box-shadow: none;
+  background: $base;
+  min-width: 0;
+
+  &:active {
+    color: $color02;
+  }
+
+  &:hover {
+    color: $color07;
+  }
+}
+
+
+progress,
+highlight {
+  min-height: 8px;
+}
+
+.distro-icon {
+  @include transition-color;
+  color: $color03;
+
+  label {
+    font-size: 16px;
+    padding-right: 6px;
+  }
+
+  &:hover {
+    color: $color01;
+  }
+}
+
+.separator {
+  color: $color01;
+  opacity: 0.2;
+}
+
+.cpu-usage,
+.memory-usage,
+.flatpak-updates-count,
+.client-title,
+.volume-indicator,
+.clock,
+.network-indicator {
+  .value {
+    color: $color01;
+  }
+}
+
+.cpu-usage .icon {
+  color: $color11;
+}
+
+.memory-usage .icon {
+  color: $color10;
+}
+
+.client-title .icon {
+  color: $color07;
+}
+
+.flatpak-updates-count .icon {
+  color: $color05;
+  background: inherit;
+}
+
+.workspaces {
+
+  button {
+    all: unset;
+    background: $color01;
+    opacity: 0.2;
+    min-width: 14px;
+    margin: 9px 4px;
+    border-radius: 10px;
+    min-height: 8px;
+
+    &:nth-child(1) {
+      margin-left: 0;
+    }
+
+    &:nth-last-child(1) {
+      margin-right: 0;
+    }
+  }
+
+  .active {
+    @include transition-color;
+    min-width: 22px;
+    opacity: 1;
+  }
+
+  .occupied {
+    opacity: 1;
+    background: $color05;
+  }
+}
+
+
+.media {
+  color: $color01;
+
+  &:hover {
+    background: $color00;
+  }
+
+  .player-icon {
+    color: $color09;
+  }
+
+  .paused {
+    .status-icon {
+      color: $color07;
+    }
+  }
+
+  .status-icon {
+    color: $color05;
+  }
+}
+
+.systray {
+  button {
+    all: unset
+  }
+
+  image {
+    font-size: 14px;
+  }
+
+  .systray-icon.custom {
+    font-size: 16px;
+  }
+}
+
+.network-indicator {
+  color: $color03;
+}
+
+.volume-indicator .icon {
+  color: $color05;
+}
+
+.clock .icon {
+  color: $color06;
+}
+
+label {
+  font-weight: bold;
+}
+
+.powermenu-icon {
+  font-size: 16px;
+  color: $color04;
+  padding-right: 6px;
+}
+
+.notify-icon {
+  @include transition-color;
+  color: $color05;
+
+  &:hover {
+    color: $color01;
+  }
+
+  image {
+    font-size: 15;
+  }
+
+  .has-notifications {
+    color: $color04;
+  }
+}

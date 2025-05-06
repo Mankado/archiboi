@@ -1,0 +1,12 @@
+2025/05/05-14:13:46.118 8afc Reusing MANIFEST /home/tomingo/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/05-14:13:46.118 8afc Recovering log #117
+2025/05/05-14:13:46.132 8afc Reusing old log /home/tomingo/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000117.log 
+2025/05/05-14:13:47.736 8afd Level-0 table #122: started
+2025/05/05-14:13:47.750 8afd Level-0 table #122: 913158 bytes OK
+2025/05/05-14:13:47.751 8afd Delete type=0 #117
+2025/05/05-14:13:47.908 8afd Compacting 1@1 + 1@2 files
+2025/05/05-14:13:47.939 8afd Generated table #123@1: 11943 keys, 1994410 bytes
+2025/05/05-14:13:47.939 8afd Compacted 1@1 + 1@2 files => 1994410 bytes
+2025/05/05-14:13:47.940 8afd compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/05-14:13:47.940 8afd Delete type=2 #119
+2025/05/05-14:13:47.940 8afd Delete type=2 #122

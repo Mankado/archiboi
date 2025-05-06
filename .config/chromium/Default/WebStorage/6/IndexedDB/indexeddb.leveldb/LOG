@@ -1,0 +1,6 @@
+2025/03/04-17:36:55.963 b6d Creating DB /home/tomingo/.config/chromium/Default/WebStorage/6/IndexedDB/indexeddb.leveldb since it was missing.
+2025/03/04-17:36:55.965 b6d Reusing MANIFEST /home/tomingo/.config/chromium/Default/WebStorage/6/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/03/04-18:28:18.634 b6b Level-0 table #5: started
+2025/03/04-18:28:18.635 b6b Level-0 table #5: 1369 bytes OK
+2025/03/04-18:28:18.636 b6b Delete type=0 #3
+2025/03/04-18:28:18.636 b6b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

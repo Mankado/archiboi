@@ -1,0 +1,17 @@
+2025/03/04-20:35:39.369 379e Reusing MANIFEST /home/tomingo/.config/chromium/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/04-20:35:39.369 379e Recovering log #4
+2025/03/04-20:35:39.369 379e Reusing old log /home/tomingo/.config/chromium/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/000004.log 
+2025/03/04-20:35:39.424 37a0 Level-0 table #8: started
+2025/03/04-20:35:39.425 37a0 Level-0 table #8: 624 bytes OK
+2025/03/04-20:35:39.426 37a0 Delete type=0 #4
+2025/03/04-20:35:39.426 379e Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/04-20:35:39.427 379e Level-0 table #10: started
+2025/03/04-20:35:39.427 379e Level-0 table #10: 503 bytes OK
+2025/03/04-20:35:39.428 379e Delete type=0 #7
+2025/03/04-20:35:39.428 379e Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x03\x00\x00\x05' @ 55 : 0
+2025/03/04-20:35:39.428 379e Compacting 1@0 + 1@1 files
+2025/03/04-20:35:39.429 379e Generated table #11@0: 14 keys, 575 bytes
+2025/03/04-20:35:39.429 379e Compacted 1@0 + 1@1 files => 575 bytes
+2025/03/04-20:35:39.430 379e compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/04-20:35:39.430 379e Delete type=2 #10
+2025/03/04-20:35:39.430 379e Manual compaction at level-0 from '\x00\x03\x00\x00\x05' @ 55 : 0 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

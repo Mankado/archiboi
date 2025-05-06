@@ -1,0 +1,416 @@
+* {
+  font-family: "CommitMono Nerd Font";
+  font-size: 14px; }
+
+trough {
+  border: none;
+  box-shadow: none;
+  background-color: #3c3836; }
+  trough highlight,
+  trough progress {
+    background-image: linear-gradient(#fbf1c7, #83a598);
+    box-shadow: none;
+    min-height: 6px;
+    border: none; }
+
+slider {
+  background-image: none;
+  background-color: transparent;
+  transition-property: all;
+  transition-duration: 300ms;
+  box-shadow: none;
+  border: none; }
+  slider:hover {
+    background-image: linear-gradient(#fbf1c7, #83a598);
+    transition-duration: 100ms;
+    transition: ease-in-out; }
+
+window.popup {
+  background-color: transparent;
+  border: none;
+  box-shadow: none; }
+  window.popup menu {
+    background-color: #1d2021;
+    color: rgba(251, 241, 199, 0.2);
+    border: 2px solid rgba(60, 56, 54, 0.3);
+    border-color: #83a598;
+    border-radius: 4px; }
+    window.popup menu separator {
+      background-color: #3c3836; }
+    window.popup menu menuitem {
+      color: rgba(251, 241, 199, 0.7);
+      margin-bottom: 4px;
+      padding: 8px 6px;
+      padding-left: 0; }
+      window.popup menu menuitem:hover {
+        color: #fbf1c7; }
+      window.popup menu menuitem:last-child {
+        margin-bottom: 0; }
+
+separator {
+  background-color: transparent; }
+
+#fallback {
+  color: rgba(251, 241, 199, 0.6); }
+
+window {
+  background-color: #1d2021;
+  color: #3c3836; }
+
+.bar {
+  padding: 4px 10px; }
+
+button {
+  padding: 1px 10px;
+  color: white;
+  border: none;
+  box-shadow: none;
+  background: #1d2021;
+  min-width: 0; }
+  button:active {
+    color: #fbf1c7; }
+  button:hover {
+    color: #fabd2f; }
+
+progress,
+highlight {
+  min-height: 8px; }
+
+.distro-icon {
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 300ms;
+  color: #83a598; }
+  .distro-icon label {
+    font-size: 16px;
+    padding-right: 6px; }
+  .distro-icon:hover {
+    color: #fbf1c7; }
+
+.separator {
+  color: #fbf1c7;
+  opacity: 0.2; }
+
+.cpu-usage .value,
+.memory-usage .value,
+.flatpak-updates-count .value,
+.client-title .value,
+.volume-indicator .value,
+.clock .value,
+.network-indicator .value {
+  color: #fbf1c7; }
+
+.cpu-usage .icon {
+  color: #8ec07c; }
+
+.memory-usage .icon {
+  color: #d3869b; }
+
+.client-title .icon {
+  color: #fabd2f; }
+
+.flatpak-updates-count .icon {
+  color: #b8bb26;
+  background: inherit; }
+
+.workspaces button {
+  all: unset;
+  background: #fbf1c7;
+  opacity: 0.2;
+  min-width: 14px;
+  margin: 9px 4px;
+  border-radius: 10px;
+  min-height: 8px; }
+  .workspaces button:nth-child(1) {
+    margin-left: 0; }
+  .workspaces button:nth-last-child(1) {
+    margin-right: 0; }
+
+.workspaces .active {
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 300ms;
+  min-width: 22px;
+  opacity: 1; }
+
+.workspaces .occupied {
+  opacity: 1;
+  background: #b8bb26; }
+
+.media {
+  color: #fbf1c7; }
+  .media:hover {
+    background: #3c3836; }
+  .media .player-icon {
+    color: #d5c4a1; }
+  .media .paused .status-icon {
+    color: #fabd2f; }
+  .media .status-icon {
+    color: #b8bb26; }
+
+.systray button {
+  all: unset; }
+
+.systray image {
+  font-size: 14px; }
+
+.systray .systray-icon.custom {
+  font-size: 16px; }
+
+.network-indicator {
+  color: #83a598; }
+
+.volume-indicator .icon {
+  color: #b8bb26; }
+
+.clock .icon {
+  color: #fe8019; }
+
+label {
+  font-weight: bold; }
+
+.powermenu-icon {
+  font-size: 16px;
+  color: #fb4934;
+  padding-right: 6px; }
+
+.notify-icon {
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 300ms;
+  color: #b8bb26; }
+  .notify-icon:hover {
+    color: #fbf1c7; }
+  .notify-icon image {
+    font-size: 15px; }
+  .notify-icon .has-notifications {
+    color: #fb4934; }
+
+.notification {
+  background-color: #1d2021;
+  padding: 6px;
+  border: 2px solid #fbf1c7;
+  margin-bottom: 6px; }
+  .notification .description {
+    font-size: 12.5px;
+    font-weight: 400;
+    margin-top: 2px; }
+  .notification .icon {
+    color: #3c3836; }
+    .notification .icon .img {
+      margin-right: 10px; }
+  .notification .time {
+    color: #b8bb26;
+    margin-right: 10px;
+    border-radius: 10rem; }
+  .notification .app-name {
+    opacity: 0.5;
+    font-size: 12px; }
+
+.notification.critical {
+  border: 2px solid #fb4934; }
+
+window#notifications {
+  all: unset;
+  background-color: transparent;
+  font-size: 14px; }
+  window#notifications .notifications {
+    margin: 4.8px; }
+
+#notification-center {
+  background-color: #1d2021;
+  color: #fbf1c7;
+  border: 3px solid #83a598; }
+  #notification-center .notifications-fallback {
+    background-color: rgba(60, 56, 54, 0.4);
+    border: 2px solid rgba(60, 56, 54, 0.3);
+    border-radius: 4px;
+    color: rgba(251, 241, 199, 0.2); }
+  #notification-center .notification {
+    background-color: #3c3836;
+    border: none;
+    border-radius: 4px; }
+    #notification-center .notification .notification-image {
+      border-radius: 4px; }
+  #notification-center .notification.critical {
+    border: 2px solid #fb4934; }
+  #notification-center .notifications-header {
+    padding: 4px;
+    border-radius: 4px; }
+    #notification-center .notifications-header separator {
+      background-color: #fabd2f; }
+    #notification-center .notifications-header label {
+      font-size: 15px; }
+    #notification-center .notifications-header .notifications-disabled {
+      background-color: #b8bb26; }
+      #notification-center .notifications-header .notifications-disabled image {
+        color: #3c3836; }
+    #notification-center .notifications-header button {
+      background-color: #3c3836;
+      min-height: 1.8rem;
+      border-radius: 4px;
+      padding: 6px;
+      min-width: 20px;
+      min-height: 20px; }
+      #notification-center .notifications-header button:hover {
+        transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+        transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+        transition-duration: 300ms;
+        background-color: #83a598; }
+        #notification-center .notifications-header button:hover image {
+          color: #3c3836; }
+
+#osd {
+  background-color: transparent; }
+  #osd .osd-bar-container {
+    min-height: 16rem; }
+  #osd .osd-bar {
+    min-width: 40px;
+    background-color: #1d2021;
+    border-radius: 10px;
+    padding: 14px 2px 0px 2px;
+    margin-right: 20px;
+    border: 2px solid #fbf1c7; }
+  #osd .osd-icon {
+    color: #fbf1c7;
+    font-size: 20px; }
+  #osd trough {
+    border-radius: 6px;
+    margin-top: 14px;
+    margin-bottom: 10px; }
+    #osd trough progress,
+    #osd trough highlight {
+      min-width: 30px;
+      border-radius: 6px; }
+
+#mpris-player {
+  color: #d5c4a1; }
+  #mpris-player button {
+    all: unset;
+    color: #d5c4a1; }
+  #mpris-player .title {
+    font-size: 13px;
+    padding-bottom: 1px; }
+  #mpris-player .artists {
+    font-size: 12px;
+    color: #b8bb26; }
+  #mpris-player .name {
+    color: #83a598; }
+  #mpris-player .player-name {
+    color: #fbf1c7; }
+  #mpris-player .player-control-icons {
+    transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 300ms;
+    background-color: #3c3836;
+    padding: 6px;
+    border-radius: 4px; }
+    #mpris-player .player-control-icons:hover {
+      color: #1d2021;
+      background-color: #83a598; }
+    #mpris-player .player-control-icons image {
+      font-size: 12.5px; }
+  #mpris-player .position,
+  #mpris-player .length {
+    font-size: 12px; }
+
+#mpris-player-window {
+  background-color: #1d2021;
+  border: 3px solid #fbf1c7; }
+
+#quicksettings .control-pannel {
+  background: #1d2021;
+  border: 3px solid #83a598;
+  padding: 8px; }
+
+#quicksettings #mpris-player {
+  border: 2px solid rgba(60, 56, 54, 0.3);
+  border-color: #b8bb26; }
+  #quicksettings #mpris-player trough {
+    background-color: rgba(251, 241, 199, 0.1); }
+
+#quicksettings .buttons-grid button {
+  background-color: #3c3836;
+  min-height: 38px;
+  min-width: 8.3rem;
+  color: #fbf1c7; }
+  #quicksettings .buttons-grid button:hover {
+    transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 300ms;
+    background-color: #b8bb26;
+    color: #3c3836; }
+
+#quicksettings .buttons-grid .active {
+  background-color: #83a598;
+  color: #3c3836; }
+
+#quicksettings .sysfetch {
+  border: 2px solid rgba(60, 56, 54, 0.3);
+  border-color: #fe8019;
+  padding: 8px;
+  color: #fbf1c7; }
+  #quicksettings .sysfetch .icon {
+    padding-right: 2px; }
+  #quicksettings .sysfetch .user .icon {
+    color: #fabd2f; }
+  #quicksettings .sysfetch .host .icon {
+    color: #fe8019; }
+  #quicksettings .sysfetch .distro .icon {
+    color: #b8bb26; }
+  #quicksettings .sysfetch .kernel .icon {
+    color: #8ec07c; }
+  #quicksettings .sysfetch .uptime .icon {
+    color: #d3869b; }
+
+#flatpak-updates {
+  background-color: #1d2021;
+  border: 2px solid rgba(60, 56, 54, 0.3);
+  border-color: #83a598;
+  border-radius: 4px; }
+  #flatpak-updates .update-list {
+    background-color: rgba(60, 56, 54, 0.4);
+    padding: 4px;
+    border: 2px solid rgba(60, 56, 54, 0.3);
+    border-radius: 4px; }
+  #flatpak-updates .update-item {
+    background: inherit;
+    padding: 4px 12px;
+    color: rgba(251, 241, 199, 0.6); }
+    #flatpak-updates .update-item .download-icon {
+      color: #fe8019; }
+    #flatpak-updates .update-item:hover {
+      background-color: #3c3836; }
+      #flatpak-updates .update-item:hover .download-icon {
+        color: #b8bb26; }
+  #flatpak-updates .name {
+    color: #fbf1c7; }
+  #flatpak-updates .update-all button {
+    all: unset;
+    background: rgba(60, 56, 54, 0.7);
+    color: #fbf1c7;
+    padding: 8px 14px;
+    border-radius: 4px; }
+    #flatpak-updates .update-all button:hover {
+      transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+      transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+      transition-duration: 300ms;
+      background-color: #b8bb26;
+      color: #1d2021; }
+
+#wallpapers {
+  border-top: 2px solid #3c3836; }
+  #wallpapers .title {
+    color: #fbf1c7;
+    font-size: 15px; }
+  #wallpapers #fallback {
+    font-size: 100px; }
+  #wallpapers #header separator {
+    background-color: #83a598; }
+  #wallpapers button {
+    min-height: 2rem;
+    padding: 0 20px;
+    background-color: #83a598;
+    color: #1d2021; }
+    #wallpapers button:hover {
+      background-color: #b8bb26; }

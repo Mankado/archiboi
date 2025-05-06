@@ -1,0 +1,10 @@
+{
+	"app": {
+		"partitions": [
+			{
+				"name": "persist:outlook-4-linux",
+				"zoomLevel": 2.75
+			}
+		]
+	}
+}

@@ -1,0 +1,45 @@
+2025/04/16-17:38:26.694 35a0 Reusing MANIFEST /home/tomingo/.config/outlook-for-linux/Partitions/outlook-4-linux/Local Storage/leveldb/MANIFEST-000001
+2025/04/16-17:38:26.694 35a0 Recovering log #47
+2025/04/16-17:38:26.694 35a0 Reusing old log /home/tomingo/.config/outlook-for-linux/Partitions/outlook-4-linux/Local Storage/leveldb/000047.log 
+2025/04/16-17:38:59.971 35a1 Level-0 table #51: started
+2025/04/16-17:38:59.975 35a1 Level-0 table #51: 106947 bytes OK
+2025/04/16-17:38:59.976 35a1 Delete type=0 #47
+2025/04/16-17:38:59.976 35a1 Compacting 4@0 + 1@1 files
+2025/04/16-17:38:59.978 35a1 Generated table #52@0: 130 keys, 129738 bytes
+2025/04/16-17:38:59.978 35a1 Compacted 4@0 + 1@1 files => 129738 bytes
+2025/04/16-17:38:59.979 35a1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/16-17:38:59.979 35a1 Delete type=2 #41
+2025/04/16-17:38:59.979 35a1 Delete type=2 #44
+2025/04/16-17:38:59.979 35a1 Delete type=2 #46
+2025/04/16-17:38:59.979 35a1 Delete type=2 #48
+2025/04/16-17:38:59.979 35a1 Delete type=2 #51
+2025/04/16-17:42:27.161 35a1 Level-0 table #54: started
+2025/04/16-17:42:27.168 35a1 Level-0 table #54: 47338 bytes OK
+2025/04/16-17:42:27.170 35a1 Delete type=0 #50
+2025/04/16-17:49:20.615 3dd3 Level-0 table #56: started
+2025/04/16-17:49:20.619 3dd3 Level-0 table #56: 67638 bytes OK
+2025/04/16-17:49:20.621 3dd3 Delete type=0 #53
+2025/04/16-17:51:27.160 3f6a Level-0 table #58: started
+2025/04/16-17:51:27.164 3f6a Level-0 table #58: 67753 bytes OK
+2025/04/16-17:51:27.166 3f6a Delete type=0 #55
+2025/04/16-18:36:15.555 6b6e Level-0 table #60: started
+2025/04/16-18:36:15.563 6b6e Level-0 table #60: 25114 bytes OK
+2025/04/16-18:36:15.565 6b6e Delete type=0 #57
+2025/04/16-18:36:15.566 6b6e Compacting 4@0 + 1@1 files
+2025/04/16-18:36:15.569 6b6e Generated table #61@0: 171 keys, 224917 bytes
+2025/04/16-18:36:15.569 6b6e Compacted 4@0 + 1@1 files => 224917 bytes
+2025/04/16-18:36:15.570 6b6e compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/16-18:36:15.570 6b6e Delete type=2 #52
+2025/04/16-18:36:15.570 6b6e Delete type=2 #54
+2025/04/16-18:36:15.570 6b6e Delete type=2 #56
+2025/04/16-18:36:15.570 6b6e Delete type=2 #58
+2025/04/16-18:36:15.570 6b6e Delete type=2 #60
+2025/04/16-18:43:24.015 35a0 Level-0 table #63: started
+2025/04/16-18:43:24.019 35a0 Level-0 table #63: 49473 bytes OK
+2025/04/16-18:43:24.020 35a0 Delete type=0 #59
+2025/04/16-18:45:39.664 7787 Level-0 table #65: started
+2025/04/16-18:45:39.665 7787 Level-0 table #65: 31788 bytes OK
+2025/04/16-18:45:39.666 7787 Delete type=0 #62
+2025/04/16-19:00:47.362 c7fb Level-0 table #67: started
+2025/04/16-19:00:47.365 c7fb Level-0 table #67: 29193 bytes OK
+2025/04/16-19:00:47.366 c7fb Delete type=0 #64

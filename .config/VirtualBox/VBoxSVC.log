@@ -1,0 +1,401 @@
+00:00:00.000347 main     VirtualBox XPCOM Server 7.1.8 r168469 linux.amd64 (Apr 23 2025 07:57:44) release log
+00:00:00.000348 main     Log opened 2025-05-05T18:57:57.258512000Z
+00:00:00.000349 main     Build Type: release
+00:00:00.000350 main     OS Product: Linux
+00:00:00.000350 main     OS Release: 6.14.4-arch1-2
+00:00:00.000351 main     OS Version: #1 SMP PREEMPT_DYNAMIC Tue, 29 Apr 2025 09:23:13 +0000
+00:00:00.000366 main     DMI Product Name: Laptop 16 (AMD Ryzen 7040 Series)
+00:00:00.000373 main     DMI Product Version: AG
+00:00:00.000376 main     Firmware type: UEFI
+00:00:00.000469 main     Secure Boot: Disabled
+00:00:00.000496 main     Host RAM: 31389MB (30.6GB) total, 21666MB (21.1GB) available
+00:00:00.000497 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000498 main     Process ID: 45631
+00:00:00.000498 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.001347 main     IPC socket path: /tmp/.vbox-tomingo-ipc/ipcd
+00:00:00.025338 DCon01   VirtualBox: object creation starts
+00:00:00.025392 DCon01   Home directory: '/home/tomingo/.config/VirtualBox'
+00:00:00.025498 DCon01   Loading settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.033894 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.034877 DCon01   HostDnsMonitor: initializing
+00:00:00.035026 DCon01   NAT: resolv.conf: nameserver 192.168.1.1
+00:00:00.035035 DCon01   NAT: resolv.conf: nameserver 2600:6c9d:5f40:21::1
+00:00:00.035050 DCon01   HostDnsMonitor: updating information
+00:00:00.035068 DCon01   HostDnsMonitor: old information
+00:00:00.035074 DCon01     no server entries
+00:00:00.035079 DCon01     no domain set
+00:00:00.035083 DCon01     no search string entries
+00:00:00.035088 DCon01   HostDnsMonitor: new information
+00:00:00.035100 DCon01     server 1: 192.168.1.1
+00:00:00.035105 DCon01     server 2: 2600:6c9d:5f40:21::1
+00:00:00.035111 DCon01     domain: lan
+00:00:00.035116 DCon01     search string 1: lan
+00:00:00.052086 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.052188 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.052784 DCon01   Platform architecture set to 'x86'
+00:00:00.053337 DCon01   Loading settings file "/home/tomingo/VirtualBox VMs/Nix/Nix.vbox" with version "1.19-linux"
+00:00:00.053471 DCon01   Platform architecture set to 'x86'
+00:00:00.053862 DCon01   VirtualBox: object created
+00:00:00.517043 DCon04   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.544058 DCon04   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:00.544790 DCon04   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=false aResultDetail=0
+00:00:00.676387 DCon04   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:00.749632 DCon05   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:00.750617 DCon05   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:10.827092 DCon02   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:11.195581 DCon02   Platform architecture set to 'x86'
+00:00:11.222973 DCon02   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:11.242390 DCon02   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:11.258692 DCon07   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:11.258977 DCon07   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:12.035011 DCon07   Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:12.037968 DCon07   Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:00:12.243287 DCon07   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:00:12.253754 DCon07   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:12.254459 DCon07   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:00:20.411938 DCon02   Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:20.415322 DCon02   Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:02:42.762367 createBase Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:42.765384 createBase Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:03:33.302176 DCon11   Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:33.309556 DCon11   Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:03:33.311003 DCon15   Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:33.312410 DCon15   Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:04:20.417913 createBase Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:04:20.432732 createBase Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:04:36.759496 DCon11   Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:04:36.767131 DCon11   Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:04:36.768518 DCon21   Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:04:36.770048 DCon21   Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:05:41.735489 DCon25   Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:05:41.738641 DCon25   Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:05:50.359226 DCon11   Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:05:50.362104 DCon11   Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:05:51.064716 DCon11   Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:05:51.067711 DCon11   Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:05:57.210591 DCon24   Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:05:57.217771 DCon24   Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:06:07.977292 DCon27   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:06:07.987016 DCon27   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:06:07.987608 DCon27   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:06:38.659717 DCon27   Platform architecture set to 'x86'
+00:06:38.663271 DCon24   Saving settings file "/home/tomingo/VirtualBox VMs/Nix/Nix.vbox" with version "1.19-linux"
+00:06:38.676804 DCon24   Finished saving settings file "/home/tomingo/VirtualBox VMs/Nix/Nix.vbox"
+00:06:38.777900 DCon33   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:06:38.884076 DCon33   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:06:38.884725 DCon33   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:08:50.362379 DCon42   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:08:50.730313 DCon42   Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:08:50.737772 DCon42   Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:08:56.424734 DCon42   Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:08:56.428091 DCon42   Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:09:00.601934 DCon42   Unattended: RTVfsQueryPathInfo(, '\OS2IMAGE/DISK_0/OS2LDR' (from OS2SE20.SRC),) -> VERR_PATH_NOT_FOUND, fMode=0x0
+00:11:09.281558 createBase Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:11:09.299248 createBase Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:11:09.310703 DCon27   Platform architecture set to 'x86'
+00:11:09.310780 DCon27   Platform architecture set to 'x86'
+00:11:09.310786 DCon27   Platform architecture set to 'x86'
+00:11:09.311013 DCon27   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:11:09.311029 DCon27   Platform architecture set to 'x86'
+00:11:09.311673 DCon27   Saving settings file "/home/tomingo/VirtualBox VMs/Onyx/Onyx.vbox" with version "1.19-linux"
+00:11:09.312898 DCon27   Finished saving settings file "/home/tomingo/VirtualBox VMs/Onyx/Onyx.vbox"
+00:11:09.312954 DCon27   Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:11:09.314424 DCon27   Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:11:09.315002 DCon43   Platform architecture set to 'x86'
+00:11:09.315825 DCon49   Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:11:09.317077 DCon49   Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:11:09.317947 DCon49   Saving settings file "/home/tomingo/VirtualBox VMs/Onyx/Onyx.vbox" with version "1.19-linux"
+00:11:09.319324 DCon49   Finished saving settings file "/home/tomingo/VirtualBox VMs/Onyx/Onyx.vbox"
+00:11:09.341295 DCon49   Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:11:09.342971 DCon49   Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:11:09.346256 DCon49   Platform architecture set to 'x86'
+00:11:09.348718 DCon49   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:11:09.368082 DCon49   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:11:09.386760 DCon49   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:11:09.402943 DCon49   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:11:09.403232 DCon49   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:11:09.649560 DCon43   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:11:09.660908 DCon49   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:11:09.661568 DCon49   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:11:09.772288 DCon49   Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:11:09.775606 DCon49   Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:11:09.921654 DCon49   Platform architecture set to 'x86'
+00:11:09.923689 DCon43   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:11:09.927255 DCon43   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:11:09.939827 DCon43   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:11:09.955074 DCon43   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:11:09.973432 DCon43   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:11:09.973795 DCon43   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:11:10.176150 DCon49   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:11:10.183419 DCon49   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:11:10.200518 DCon49   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:11:10.201247 DCon49   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:11:18.394565 DCon48   Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:11:18.397731 DCon48   Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:11:18.400321 DCon43   Platform architecture set to 'x86'
+00:11:18.403053 DCon39   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:11:18.423730 DCon51   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:11:18.443552 DCon51   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:11:18.456626 DCon39   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:11:18.456844 DCon39   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:11:18.643530 DCon39   ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:11:18.808260 DCon39   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:11:18.808792 DCon39   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:18:24.746528 createBase Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:18:24.748606 createBase Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:46:56.547277 DCon114  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:46:56.550437 DCon114  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:46:56.551739 DCon113  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:46:56.553243 DCon113  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:49:55.655053 DCon120  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:49:55.658553 DCon120  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:53:22.443011 DCon125  Platform architecture set to 'x86'
+00:53:22.456858 DCon125  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 0 of controller 'SATA'}, preserve=false aResultDetail=0
+00:53:22.457827 DCon117  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:53:22.460056 DCon117  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:53:22.460508 DCon117  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={No storage device attached to device slot 0 on port 1 of controller 'SATA'}, preserve=false aResultDetail=0
+00:53:22.461514 DCon117  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:53:22.463979 DCon117  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:53:22.505126 DCon134  Saving settings file "/home/tomingo/VirtualBox VMs/Nix-server/Nix-server.vbox" with version "1.19-linux"
+00:53:22.507821 DCon134  Finished saving settings file "/home/tomingo/VirtualBox VMs/Nix-server/Nix-server.vbox"
+00:53:22.510248 SaveMediaReg Saving settings file "/home/tomingo/VirtualBox VMs/Nix-server/Nix-server.vbox" with version "1.19-linux"
+00:53:22.512875 SaveMediaReg Finished saving settings file "/home/tomingo/VirtualBox VMs/Nix-server/Nix-server.vbox"
+00:53:22.513038 DCon134  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:53:22.514636 DCon134  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:53:22.701634 DCon130  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:53:22.730905 DCon117  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:22.731756 DCon117  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:22.931072 DCon117  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:53:22.934654 DCon117  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:53:43.460496 DCon127  Launched VM: 3422574016 pid: 57081 (0xdef9) frontend: GUI/Qt name: Nix-server
+00:53:43.504407 DCon136  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:53:43.539745 DCon136  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:43.540650 DCon136  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:43.699434 DCon137  Platform architecture set to 'x86'
+00:53:43.720030 DCon139  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:53:43.732728 DCon139  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:43.733432 DCon139  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:44.047419 DCon139  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:44.047938 DCon139  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:44.048135 DCon139  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:53:44.104819 DCon138  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:44.105581 DCon138  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:44.107795 DCon138  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:53:44.135754 DCon138  NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:53:44.147930 DCon138  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=false aResultDetail=0
+00:53:44.148517 DCon138  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:44.148643 DCon138  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:44.159364 DCon139  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:44.172495 DCon139  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:44.204417 DCon141  NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:53:44.226252 DCon140  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Starting)}, preserve=false aResultDetail=0
+00:53:44.237324 DCon141  NetworkServiceRunning: started 'VBoxNetDHCP', pid 0000df34
+00:53:44.263111 DCon140  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:44.263811 DCon140  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:44.264781 DCon140  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:53:44.265825 DCon140  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:44.267138 DCon140  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:44.375997 DCon140  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:53:44.377010 DCon140  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:53:44.377664 DCon140  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:53:44.378408 DCon140  HostDnsMonitorProxy::GetDomainName: lan
+00:53:44.378462 DCon140  HostDnsMonitorProxy::GetNameServers:
+00:53:44.378466 DCon140    name server 1: 192.168.1.1
+00:53:44.378469 DCon140    name server 2: 2600:6c9d:5f40:21::1
+00:53:44.378528 DCon140  HostDnsMonitorProxy::GetSearchStrings:
+00:53:44.378531 DCon140    search string 1: lan
+00:53:44.630402 DCon141  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:53:44.632571 DCon141  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:53:44.774944 DCon141  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:44.776013 DCon137  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:44.777558 DCon137  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:53:44.780527 DCon137  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:44.815823 DCon137  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:53:44.840383 DCon139  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:44.841256 DCon139  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:55.332988 DCon136  Saving settings file "/home/tomingo/VirtualBox VMs/Nix-server/Nix-server.vbox" with version "1.19-linux"
+00:53:55.336619 DCon136  Finished saving settings file "/home/tomingo/VirtualBox VMs/Nix-server/Nix-server.vbox"
+00:53:55.365709 DCon120  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:53:55.377908 DCon148  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:53:55.378915 DCon148  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:54:52.236386 DCon125  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:54:52.237137 DCon125  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:54:52.238062 DCon125  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:54:52.247320 DCon125  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:54:52.267702 DCon125  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Paused)}, preserve=false aResultDetail=0
+00:54:52.296900 DCon125  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:54:52.297668 DCon125  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:54:56.337035 DCon125  Saving settings file "/home/tomingo/VirtualBox VMs/Nix-server/Nix-server.vbox" with version "1.19-linux"
+00:54:56.340608 DCon125  Finished saving settings file "/home/tomingo/VirtualBox VMs/Nix-server/Nix-server.vbox"
+00:54:56.389709 DCon154  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:54:56.390250 DCon154  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:54:56.391007 DCon154  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:54:56.404185 DCon148  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:54:56.404242 DCon154  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Stopping)}, preserve=false aResultDetail=0
+00:54:56.418840 DCon154  Saving settings file "/home/tomingo/VirtualBox VMs/Nix-server/Nix-server.vbox" with version "1.19-linux"
+00:54:56.421297 DCon154  Finished saving settings file "/home/tomingo/VirtualBox VMs/Nix-server/Nix-server.vbox"
+00:54:56.442025 DCon154  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:54:56.442249 DCon153  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:54:56.443303 DCon153  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:54:56.444937 DCon153  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:54:56.458726 DCon153  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:54:56.470105 DCon153  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:54:56.470914 DCon153  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:54:56.492860 DCon154  ERROR [COM]: aRC=NS_ERROR_INVALID_ARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:54:56.921278 DCon154  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:54:56.924250 DCon154  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:54:57.967244 DCon143  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:54:58.026990 DCon143  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:54:58.027769 DCon143  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:55:04.315772 DCon139  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:55:04.682271 DCon139  Platform architecture set to 'x86'
+00:55:04.713698 DCon139  NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:55:04.723195 DCon139  NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp2s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:55:04.730382 DCon139  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:55:04.730658 DCon139  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:55:05.490225 DCon139  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:55:05.493145 DCon139  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:55:05.705844 DCon139  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:55:05.714285 DCon139  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:55:05.714880 DCon139  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+00:55:13.130387 DCon152  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:55:13.133491 DCon152  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:55:19.031289 DCon143  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:55:19.034645 DCon143  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+00:56:19.930876 DCon152  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:56:19.935078 DCon152  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+01:02:53.677618 createBase Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:02:53.679701 createBase Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+01:04:19.411177 DCon125  Platform architecture set to 'x86'
+01:04:19.449172 DCon139  Saving settings file "/home/tomingo/VirtualBox VMs/Nix-server/Nix-server.vbox" with version "1.19-linux"
+01:04:19.451281 DCon139  Finished saving settings file "/home/tomingo/VirtualBox VMs/Nix-server/Nix-server.vbox"
+01:04:19.548845 DCon125  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+01:04:19.557474 DCon125  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+01:04:19.558033 DCon125  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+01:04:19.825994 DCon125  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:04:19.827576 DCon125  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+01:04:21.265729 DCon125  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:04:21.268801 DCon125  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+01:04:21.270494 DCon166  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+01:04:21.275891 DCon166  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+01:04:21.287931 DCon166  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+01:04:21.317584 DCon166  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+01:04:21.318499 DCon166  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+01:05:00.873466 createBase Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+01:05:00.876911 createBase Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+03:01:35.690761 MainPower Host suspending: Paused 0 VMs
+03:01:36.236256 dns-monitor HostDnsMonitor: updating information
+03:01:36.236315 dns-monitor HostDnsMonitor: old information
+03:01:36.236323 dns-monitor   server 1: 192.168.1.1
+03:01:36.236330 dns-monitor   server 2: 2600:6c9d:5f40:21::1
+03:01:36.236334 dns-monitor   domain: lan
+03:01:36.236338 dns-monitor   search string 1: lan
+03:01:36.236342 dns-monitor HostDnsMonitor: new information
+03:01:36.236345 dns-monitor   no server entries
+03:01:36.236348 dns-monitor   no domain set
+03:01:36.236352 dns-monitor   no search string entries
+03:01:38.998856 MainPower Host resumed: Resumed 0 VMs
+03:01:42.309637 dns-monitor NAT: resolv.conf: nameserver 192.168.1.1
+03:01:42.309688 dns-monitor HostDnsMonitor: updating information
+03:01:42.309702 dns-monitor HostDnsMonitor: old information
+03:01:42.309713 dns-monitor   no server entries
+03:01:42.309724 dns-monitor   no domain set
+03:01:42.309734 dns-monitor   no search string entries
+03:01:42.309745 dns-monitor HostDnsMonitor: new information
+03:01:42.309755 dns-monitor   server 1: 192.168.1.1
+03:01:42.309767 dns-monitor   domain: lan
+03:01:42.309777 dns-monitor   search string 1: lan
+03:01:43.723938 dns-monitor NAT: resolv.conf: nameserver 192.168.1.1
+03:01:43.723968 dns-monitor NAT: resolv.conf: nameserver 2600:6c9d:5f40:21::1
+03:01:43.723988 dns-monitor HostDnsMonitor: updating information
+03:01:43.723995 dns-monitor HostDnsMonitor: old information
+03:01:43.724001 dns-monitor   server 1: 192.168.1.1
+03:01:43.724007 dns-monitor   domain: lan
+03:01:43.724011 dns-monitor   search string 1: lan
+03:01:43.724015 dns-monitor HostDnsMonitor: new information
+03:01:43.724018 dns-monitor   server 1: 192.168.1.1
+03:01:43.724022 dns-monitor   server 2: 2600:6c9d:5f40:21::1
+03:01:43.724025 dns-monitor   domain: lan
+03:01:43.724029 dns-monitor   search string 1: lan
+03:02:06.521452 MainPower Host suspending: Paused 0 VMs
+03:02:06.995228 dns-monitor HostDnsMonitor: updating information
+03:02:06.995276 dns-monitor HostDnsMonitor: old information
+03:02:06.995288 dns-monitor   server 1: 192.168.1.1
+03:02:06.995299 dns-monitor   server 2: 2600:6c9d:5f40:21::1
+03:02:06.995326 dns-monitor   domain: lan
+03:02:06.995355 dns-monitor   search string 1: lan
+03:02:06.995365 dns-monitor HostDnsMonitor: new information
+03:02:06.995373 dns-monitor   no server entries
+03:02:06.995382 dns-monitor   no domain set
+03:02:06.995390 dns-monitor   no search string entries
+03:02:09.901553 MainPower Host resumed: Resumed 0 VMs
+03:02:14.443655 dns-monitor NAT: resolv.conf: nameserver 71.10.216.2
+03:02:14.443675 dns-monitor NAT: resolv.conf: nameserver 71.10.216.1
+03:02:14.443686 dns-monitor HostDnsMonitor: updating information
+03:02:14.443690 dns-monitor HostDnsMonitor: old information
+03:02:14.443693 dns-monitor   no server entries
+03:02:14.443697 dns-monitor   no domain set
+03:02:14.443699 dns-monitor   no search string entries
+03:02:14.443702 dns-monitor HostDnsMonitor: new information
+03:02:14.443705 dns-monitor   server 1: 71.10.216.2
+03:02:14.443708 dns-monitor   server 2: 71.10.216.1
+03:02:14.443711 dns-monitor   no domain set
+03:02:14.443713 dns-monitor   no search string entries
+03:37:37.960354 DCon488  ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+03:37:38.331971 DCon486  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+03:37:38.335604 DCon486  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+03:37:44.300232 DCon488  Unattended: RTVfsQueryPathInfo(, '\OS2IMAGE/DISK_0/OS2LDR' (from OS2SE20.SRC),) -> VERR_PATH_NOT_FOUND, fMode=0x0
+03:37:44.627787 DCon488  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+03:37:44.631042 DCon488  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+03:49:29.930330 createBase Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+03:49:29.933404 createBase Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+03:49:29.950391 DCon510  Platform architecture set to 'x86'
+03:49:29.950581 DCon510  Platform architecture set to 'x86'
+03:49:29.950594 DCon510  Platform architecture set to 'x86'
+03:49:29.950932 DCon510  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+03:49:29.950969 DCon510  Platform architecture set to 'x86'
+03:49:29.953558 DCon510  Saving settings file "/home/tomingo/VirtualBox VMs/Steelyx/Steelyx.vbox" with version "1.19-linux"
+03:49:29.955060 DCon510  Finished saving settings file "/home/tomingo/VirtualBox VMs/Steelyx/Steelyx.vbox"
+03:49:29.955159 DCon510  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+03:49:29.956638 DCon510  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+03:49:29.957359 DCon510  Platform architecture set to 'x86'
+03:49:29.958587 DCon514  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+03:49:29.960185 DCon514  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+03:49:29.961110 DCon514  Saving settings file "/home/tomingo/VirtualBox VMs/Steelyx/Steelyx.vbox" with version "1.19-linux"
+03:49:29.962468 DCon514  Finished saving settings file "/home/tomingo/VirtualBox VMs/Steelyx/Steelyx.vbox"
+03:49:29.983654 DCon511  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+03:49:29.986341 DCon511  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+03:49:30.031691 DCon514  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+03:49:30.052576 DCon514  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+03:49:30.056518 DCon514  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+03:49:30.063019 DCon514  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+03:49:30.063514 DCon514  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+03:49:30.331915 DCon514  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+03:49:30.334871 DCon514  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+03:49:35.633821 DCon514  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+03:49:35.635678 DCon514  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+03:49:35.637485 DCon513  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+03:49:35.657214 DCon513  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+03:49:35.686439 DCon513  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+03:49:35.687449 DCon513  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+03:49:39.822066 DCon513  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+03:49:39.825203 DCon513  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+03:49:39.827058 DCon514  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+03:49:39.832354 DCon514  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+03:49:39.845472 DCon514  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+03:49:39.870335 DCon514  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+03:49:39.871361 DCon514  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+03:49:41.085149 DCon514  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+03:49:41.086974 DCon514  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+03:49:41.088461 DCon514  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+03:49:41.091703 DCon514  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+03:49:41.094545 DCon514  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+03:49:41.101161 DCon514  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+03:49:41.101628 DCon514  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+03:49:42.985104 DCon514  Saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+03:49:42.988132 DCon514  Finished saving settings file "/home/tomingo/.config/VirtualBox/VirtualBox.xml"
+03:49:42.989859 DCon514  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+03:49:42.994937 DCon514  ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+03:49:42.998548 DCon514  ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+03:49:43.005287 DCon514  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0
+03:49:43.006037 DCon514  WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true aResultDetail=0

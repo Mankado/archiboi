@@ -1,0 +1,2 @@
+2025-05-05 16:49:14.339 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/tomingo/.config/Code - OSS/logs/20250504T145148/window1/output_20250504T145149' failed: No such file or directory (EUNKNOWN) (path: /home/tomingo)
+2025-05-05 16:49:14.339 [error] [File Watcher (universal)] inotify_add_watch on '/home/tomingo/.config/Code - OSS/logs/20250504T145148/window1/output_20250504T145149' failed: No such file or directory

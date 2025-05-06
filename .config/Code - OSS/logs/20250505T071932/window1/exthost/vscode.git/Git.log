@@ -1,0 +1,300 @@
+2025-05-05 07:19:35.003 [info] [main] Log level: Info
+2025-05-05 07:19:35.004 [info] [main] Validating found git in: "git"
+2025-05-05 07:19:35.004 [info] [main] Using git "2.49.0" from "git"
+2025-05-05 07:19:35.004 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-05 07:19:35.004 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-05 07:19:35.004 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.004 [info] > git rev-parse --show-toplevel [6ms]
+2025-05-05 07:19:35.004 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.004 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-05 07:19:35.004 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.018 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:19:35.018 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.028 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-05 07:19:35.029 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.037 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:19:35.037 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.048 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-05 07:19:35.048 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.057 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:19:35.057 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.069 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-05 07:19:35.102 [info] > git rev-parse --git-dir --git-common-dir [22ms]
+2025-05-05 07:19:35.102 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.121 [info] > git rev-parse --show-toplevel [8ms]
+2025-05-05 07:19:35.121 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.135 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:19:35.135 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.147 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-05 07:19:35.147 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.158 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-05 07:19:35.158 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.166 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:19:35.166 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.176 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:19:35.176 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.187 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-05 07:19:35.187 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.198 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-05 07:19:35.198 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.208 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:19:35.209 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.221 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:19:35.221 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.232 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:19:35.232 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.243 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:19:35.243 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.255 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:19:35.255 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.266 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:19:35.266 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.278 [info] > git rev-parse --show-toplevel [3ms]
+2025-05-05 07:19:35.278 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.388 [info] > git rev-parse --show-toplevel [100ms]
+2025-05-05 07:19:35.388 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.399 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:19:35.399 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.418 [info] > git rev-parse --show-toplevel [9ms]
+2025-05-05 07:19:35.418 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.424 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:19:35.429 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-05-05 07:19:35.435 [info] [Model][openRepository] Opened repository: /home/tomingo/HyprPanel
+2025-05-05 07:19:35.447 [info] > git config --get commit.template [5ms]
+2025-05-05 07:19:35.447 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:19:35.447 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.460 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-05 07:19:35.460 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.460 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2025-05-05 07:19:35.470 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/tomingo/HyprPanel/.git/refs/remotes/origin/master'
+2025-05-05 07:19:35.471 [info] > git rev-parse --show-toplevel [5ms]
+2025-05-05 07:19:35.471 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.476 [info] > git rev-parse refs/remotes/origin/master [6ms]
+2025-05-05 07:19:35.486 [info] > git rev-parse --show-toplevel [10ms]
+2025-05-05 07:19:35.486 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.496 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-05 07:19:35.496 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.496 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [10ms]
+2025-05-05 07:19:35.502 [info] > git rev-parse --show-toplevel [0ms]
+2025-05-05 07:19:35.502 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.508 [info] > git rev-parse --show-toplevel [0ms]
+2025-05-05 07:19:35.508 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.514 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:19:35.520 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-05-05 07:19:35.522 [info] [Model][openRepository] Opened repository: /home/tomingo/astal
+2025-05-05 07:19:35.539 [info] > git rev-parse --show-toplevel [7ms]
+2025-05-05 07:19:35.539 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.539 [info] > git config --get commit.template [12ms]
+2025-05-05 07:19:35.551 [info] > git rev-parse --show-toplevel [7ms]
+2025-05-05 07:19:35.561 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2025-05-05 07:19:35.563 [info] [Model][openRepository] Opened repository: /home/tomingo/bun
+2025-05-05 07:19:35.564 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2025-05-05 07:19:35.576 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/tomingo/astal/.git/refs/remotes/origin/main'
+2025-05-05 07:19:35.578 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-05-05 07:19:35.588 [info] > git rev-parse --show-toplevel [16ms]
+2025-05-05 07:19:35.588 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.588 [info] > git config --get commit.template [19ms]
+2025-05-05 07:19:35.594 [info] > git status -z -uall [113ms]
+2025-05-05 07:19:35.618 [info] > git status -z -uall [35ms]
+2025-05-05 07:19:35.618 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2025-05-05 07:19:35.623 [info] > git rev-parse --show-toplevel [29ms]
+2025-05-05 07:19:35.623 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [35ms]
+2025-05-05 07:19:35.629 [info] > git config --get --local branch.master.vscode-merge-base [6ms]
+2025-05-05 07:19:35.629 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-05 07:19:35.633 [info] > git config --get commit.template [15ms]
+2025-05-05 07:19:35.633 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [19ms]
+2025-05-05 07:19:35.646 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/tomingo/bun/.git/refs/remotes/origin/master'
+2025-05-05 07:19:35.650 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-05-05 07:19:35.654 [info] > git reflog master --grep-reflog=branch: Created from *. [21ms]
+2025-05-05 07:19:35.658 [info] > git rev-parse --git-dir --git-common-dir [30ms]
+2025-05-05 07:19:35.661 [info] [Model][openRepository] Opened repository: /home/tomingo/oh-my-fish
+2025-05-05 07:19:35.688 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [30ms]
+2025-05-05 07:19:35.691 [info] > git config --get --local branch.main.vscode-merge-base [37ms]
+2025-05-05 07:19:35.696 [info] > git config --get commit.template [47ms]
+2025-05-05 07:19:35.696 [info] > git rev-parse refs/remotes/origin/master [50ms]
+2025-05-05 07:19:35.709 [info] > git status -z -uall [9ms]
+2025-05-05 07:19:35.709 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-05-05 07:19:35.717 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [21ms]
+2025-05-05 07:19:35.722 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [31ms]
+2025-05-05 07:19:35.726 [info] > git rev-parse --show-toplevel [38ms]
+2025-05-05 07:19:35.726 [info] > git config --get commit.template [42ms]
+2025-05-05 07:19:35.726 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [46ms]
+2025-05-05 07:19:35.742 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/tomingo/HyprPanel/.git/refs/remotes/origin/master'
+2025-05-05 07:19:35.743 [info] > git config --add --local branch.master.vscode-merge-base origin/master [17ms]
+2025-05-05 07:19:35.743 [info] > git merge-base refs/heads/main refs/remotes/origin/main [21ms]
+2025-05-05 07:19:35.747 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [31ms]
+2025-05-05 07:19:35.762 [info] > git config --get --local branch.master.vscode-merge-base [11ms]
+2025-05-05 07:19:35.766 [info] > git diff --name-status -z --diff-filter=ADMR 990f031507b21f8a18c0710016fb76b1f260afe8...refs/remotes/origin/main [19ms]
+2025-05-05 07:19:35.767 [info] > git rev-parse refs/remotes/origin/master [25ms]
+2025-05-05 07:19:35.776 [info] > git rev-parse --git-dir --git-common-dir [37ms]
+2025-05-05 07:19:35.779 [info] [Model][openRepository] Opened repository: /home/tomingo/yay
+2025-05-05 07:19:35.779 [info] [Model][doInitialScan] Initial repository scan completed - repositories (5), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-05 07:19:35.779 [info] > git config --get commit.template [45ms]
+2025-05-05 07:19:35.779 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [48ms]
+2025-05-05 07:19:35.793 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/tomingo/astal/.git/refs/remotes/origin/main'
+2025-05-05 07:19:35.795 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [23ms]
+2025-05-05 07:19:35.800 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [34ms]
+2025-05-05 07:19:35.805 [info] > git config --get commit.template [45ms]
+2025-05-05 07:19:35.806 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [50ms]
+2025-05-05 07:19:35.816 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/tomingo/oh-my-fish/.git/refs/remotes/origin/master'
+2025-05-05 07:19:35.817 [info] > git merge-base refs/heads/master refs/remotes/origin/master [12ms]
+2025-05-05 07:19:35.821 [info] > git config --get --local branch.master.vscode-merge-base [21ms]
+2025-05-05 07:19:35.825 [info] > git rev-parse refs/remotes/origin/main [32ms]
+2025-05-05 07:19:35.832 [info] > git rev-parse --show-toplevel [44ms]
+2025-05-05 07:19:35.832 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:35.833 [info] > git config --get commit.template [49ms]
+2025-05-05 07:19:35.842 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [10ms]
+2025-05-05 07:19:35.843 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [18ms]
+2025-05-05 07:19:35.847 [info] > git diff --name-status -z --diff-filter=ADMR 61bdd9eada48841e05b71fcbe32b27476c12cbfb...refs/remotes/origin/master [27ms]
+2025-05-05 07:19:35.847 [info] > git rev-parse refs/remotes/origin/master [31ms]
+2025-05-05 07:19:35.856 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [45ms]
+2025-05-05 07:19:35.864 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/tomingo/bun/.git/refs/remotes/origin/master'
+2025-05-05 07:19:35.864 [info] > git status -z -uall [36ms]
+2025-05-05 07:19:35.864 [info] > git status -z -uall [12ms]
+2025-05-05 07:19:35.864 [info] > git merge-base refs/heads/master refs/remotes/origin/master [17ms]
+2025-05-05 07:19:35.868 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [27ms]
+2025-05-05 07:19:35.875 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/tomingo/HyprPanel/.git/refs/remotes/origin/master'
+2025-05-05 07:19:35.876 [info] > git diff --name-status -z --diff-filter=ADMR 867b2a7d68c3220e1f764cd5e9b715dd2768551b...refs/remotes/origin/master [8ms]
+2025-05-05 07:19:35.876 [info] > git rev-parse refs/remotes/origin/master [13ms]
+2025-05-05 07:19:35.885 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [25ms]
+2025-05-05 07:19:35.886 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [30ms]
+2025-05-05 07:19:35.897 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/tomingo/yay/.git/refs/remotes/origin/master'
+2025-05-05 07:19:35.902 [info] > git status -z -uall [21ms]
+2025-05-05 07:19:35.902 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [11ms]
+2025-05-05 07:19:35.906 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [21ms]
+2025-05-05 07:19:35.908 [info] > git rev-parse refs/remotes/origin/master [33ms]
+2025-05-05 07:19:35.918 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-05-05 07:19:35.918 [info] > git config --get --local branch.master.vscode-merge-base [12ms]
+2025-05-05 07:19:35.918 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-05 07:19:35.923 [info] > git config --get commit.template [22ms]
+2025-05-05 07:19:35.923 [info] > git rev-parse refs/remotes/origin/master [26ms]
+2025-05-05 07:19:35.932 [info] > git status -z -uall [5ms]
+2025-05-05 07:19:35.932 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-05 07:19:35.941 [info] > git reflog master --grep-reflog=branch: Created from *. [18ms]
+2025-05-05 07:19:35.955 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [16ms]
+2025-05-05 07:19:35.961 [info] > git config --get --local branch.master.vscode-merge-base [2ms]
+2025-05-05 07:19:35.965 [info] > git config --get commit.template [11ms]
+2025-05-05 07:19:35.965 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [15ms]
+2025-05-05 07:19:35.965 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [20ms]
+2025-05-05 07:19:35.973 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/tomingo/oh-my-fish/.git/refs/remotes/origin/master'
+2025-05-05 07:19:35.973 [info] > git status -z -uall [61ms]
+2025-05-05 07:19:35.974 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [9ms]
+2025-05-05 07:19:35.986 [info] > git merge-base refs/heads/master refs/remotes/origin/master [8ms]
+2025-05-05 07:19:35.990 [info] > git rev-parse refs/remotes/origin/master [17ms]
+2025-05-05 07:19:35.998 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [29ms]
+2025-05-05 07:19:36.003 [info] > git status -z -uall [10ms]
+2025-05-05 07:19:36.003 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2025-05-05 07:19:36.009 [info] > git diff --name-status -z --diff-filter=ADMR 179b744dec6648ff7c7b051c692ba20c906f348e...refs/remotes/origin/master [19ms]
+2025-05-05 07:19:36.009 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [24ms]
+2025-05-05 07:19:36.016 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/tomingo/yay/.git/refs/remotes/origin/master'
+2025-05-05 07:19:36.017 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2025-05-05 07:19:36.021 [info] > git config --add --local branch.master.vscode-merge-base origin/master [20ms]
+2025-05-05 07:19:36.025 [info] > git config --get --local branch.master.vscode-merge-base [4ms]
+2025-05-05 07:19:36.029 [info] > git rev-parse refs/remotes/origin/master [13ms]
+2025-05-05 07:19:36.038 [info] > git status -z -uall [5ms]
+2025-05-05 07:19:36.038 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [9ms]
+2025-05-05 07:19:36.042 [info] > git config --get commit.template [17ms]
+2025-05-05 07:19:36.042 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2025-05-05 07:19:36.047 [info] > git merge-base refs/heads/master refs/remotes/origin/master [5ms]
+2025-05-05 07:19:36.053 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2025-05-05 07:19:36.057 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/tomingo/oh-my-fish/.git/refs/remotes/origin/master'
+2025-05-05 07:19:36.058 [info] > git diff --name-status -z --diff-filter=ADMR 31c52044c4709b77c510b779d7f907cf0fd5d7d6...refs/remotes/origin/master [6ms]
+2025-05-05 07:19:36.058 [info] > git rev-parse refs/remotes/origin/master [1ms]
+2025-05-05 07:19:36.067 [info] > git status -z -uall [5ms]
+2025-05-05 07:19:36.068 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-05-05 07:19:36.435 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:19:36.436 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:36.479 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/tomingo/HyprPanel/external/ags-types". Error:Error: ENOENT: no such file or directory, realpath '/home/tomingo/HyprPanel/external/ags-types'
+2025-05-05 07:19:44.085 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-05 07:19:44.085 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:44.716 [info] > git check-ignore -v -z --stdin [37ms]
+2025-05-05 07:19:44.717 [info] > git check-ignore -v -z --stdin [29ms]
+2025-05-05 07:19:44.717 [info] > git check-ignore -v -z --stdin [19ms]
+2025-05-05 07:19:44.717 [info] > git check-ignore -v -z --stdin [12ms]
+2025-05-05 07:19:44.717 [info] > git check-ignore -v -z --stdin [3ms]
+2025-05-05 07:19:56.125 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:19:56.125 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:19:59.220 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:19:59.220 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:20:01.211 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:20:01.211 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-05 07:20:02.231 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:20:02.231 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:20:04.514 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:20:04.514 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-05-05 07:20:16.925 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:20:16.925 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:20:24.348 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:20:24.353 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-05-05 07:20:24.355 [info] [Model][openRepository] Opened repository: /home/tomingo/.config/hypr/themes/nier
+2025-05-05 07:20:24.361 [info] > git config --get commit.template [1ms]
+2025-05-05 07:20:24.372 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/hyprland-yorha refs/remotes/hyprland-yorha [6ms]
+2025-05-05 07:20:24.378 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/tomingo/.config/hypr/themes/nier/.git/refs/remotes/origin/hyprland-yorha'
+2025-05-05 07:20:24.379 [info] > git rev-parse refs/remotes/origin/hyprland-yorha [1ms]
+2025-05-05 07:20:24.391 [info] > git status -z -uall [7ms]
+2025-05-05 07:20:24.393 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-05-05 07:20:24.408 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/hyprland-yorha refs/remotes/hyprland-yorha [7ms]
+2025-05-05 07:20:24.415 [info] > git config --get --local branch.hyprland-yorha.vscode-merge-base [1ms]
+2025-05-05 07:20:24.420 [info] > git config --get commit.template [12ms]
+2025-05-05 07:20:24.422 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [2ms]
+2025-05-05 07:20:24.443 [info] > git merge-base refs/heads/hyprland-yorha refs/remotes/origin/hyprland-yorha [15ms]
+2025-05-05 07:20:24.466 [info] > git diff --name-status -z --diff-filter=ADMR 059b6af4c1ca83fa9916331ffaebb504e19938b0...refs/remotes/origin/hyprland-yorha [12ms]
+2025-05-05 07:20:24.467 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/hyprland-yorha refs/remotes/hyprland-yorha [25ms]
+2025-05-05 07:20:24.479 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/tomingo/.config/hypr/themes/nier/.git/refs/remotes/origin/hyprland-yorha'
+2025-05-05 07:20:24.484 [info] > git rev-parse refs/remotes/origin/hyprland-yorha [5ms]
+2025-05-05 07:20:24.503 [info] > git status -z -uall [9ms]
+2025-05-05 07:20:24.506 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-05-05 07:20:24.866 [info] > git show --textconv :theme.conf [12ms]
+2025-05-05 07:20:24.867 [info] > git ls-files --stage -- theme.conf [2ms]
+2025-05-05 07:20:24.878 [info] > git cat-file -s 8dd1bcd83b22692903b1a91201d223744c2e79a5 [2ms]
+2025-05-05 07:20:24.914 [info] > git blame --root --incremental 059b6af4c1ca83fa9916331ffaebb504e19938b0 -- theme.conf [10ms]
+2025-05-05 07:20:24.999 [info] > git check-ignore -v -z --stdin [3ms]
+2025-05-05 07:20:32.445 [info] > git rev-parse --show-toplevel [1ms]
+2025-05-05 07:20:32.445 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-05-05 07:20:46.998 [info] > git rev-parse --show-toplevel [0ms]
+2025-05-05 07:20:46.998 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	worktree = /home/tomingo
+[status]
+	showUntrackedFiles = no
+[remote "origin"]
+	url = git@github.com:Mankado/archiboi.git
+	fetch = +refs/heads/*:refs/remotes/origin/*

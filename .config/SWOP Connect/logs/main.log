@@ -1,0 +1,22 @@
+[2025-02-04 20:46:23.892] [info]  Checking for update
+[2025-02-04 20:46:23.900] [debug] SWOP Connect started successfully.
+[2025-02-04 20:46:23.940] [info]  Generated new staging user ID: 098ef4d7-2aa6-5b1b-894d-3a6bfdeaecfb
+[2025-02-04 20:46:24.470] [info]  Update for version 1.6.0 is not available (latest version: 1.6.0, downgrade is disallowed).
+[2025-02-04 20:46:24.472] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2025-02-04 20:46:26.368] [debug] Socket connected: euuxEBHMjVeZsX1FAAAB
+[2025-02-04 20:46:27.372] [debug] getGPUInfo called, initializing GPUs
+[2025-02-04 20:46:27.373] [debug] Querying platforms
+[2025-02-04 20:48:36.697] [info]  Checking for update
+[2025-02-04 20:48:36.704] [debug] SWOP Connect started successfully.
+[2025-02-04 20:48:37.351] [info]  Update for version 1.6.0 is not available (latest version: 1.6.0, downgrade is disallowed).
+[2025-02-04 20:48:37.351] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2025-02-04 20:48:39.660] [debug] Socket connected: 8b8D10mFtfQxH7IHAAAB
+[2025-02-04 20:48:40.556] [debug] getGPUInfo called, initializing GPUs
+[2025-02-04 20:48:40.556] [debug] Querying platforms
+[2025-02-04 21:24:26.917] [info]  Checking for update
+[2025-02-04 21:24:26.923] [debug] SWOP Connect started successfully.
+[2025-02-04 21:24:27.498] [info]  Update for version 1.6.0 is not available (latest version: 1.6.0, downgrade is disallowed).
+[2025-02-04 21:24:27.499] [debug] checkForUpdatesAndNotify called, downloadPromise is null
+[2025-02-04 21:24:28.141] [debug] Socket connected: 9Dxp_XuZpRQamVPtAAAB
+[2025-02-04 21:24:29.248] [debug] getGPUInfo called, initializing GPUs
+[2025-02-04 21:24:29.248] [debug] Querying platforms

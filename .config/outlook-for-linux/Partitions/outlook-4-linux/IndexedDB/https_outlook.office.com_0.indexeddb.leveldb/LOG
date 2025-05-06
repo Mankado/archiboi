@@ -1,0 +1,17 @@
+2025/05/05-18:02:11.418 978 Reusing MANIFEST /home/tomingo/.config/outlook-for-linux/Partitions/outlook-4-linux/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/05-18:02:11.418 978 Recovering log #309
+2025/05/05-18:02:11.418 978 Reusing old log /home/tomingo/.config/outlook-for-linux/Partitions/outlook-4-linux/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/000309.log 
+2025/05/05-18:02:11.422 14f49 Level-0 table #315: started
+2025/05/05-18:02:11.423 14f49 Level-0 table #315: 502 bytes OK
+2025/05/05-18:02:11.424 14f49 Delete type=0 #309
+2025/05/05-18:02:11.425 978 Manual compaction at level-0 from '\x00^\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00_\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/05-18:02:11.509 14f49 Level-0 table #317: started
+2025/05/05-18:02:11.510 14f49 Level-0 table #317: 530 bytes OK
+2025/05/05-18:02:11.511 14f49 Delete type=0 #314
+2025/05/05-18:02:11.511 978 Manual compaction at level-0 from '\x00_\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00`\x00\x00\x00' @ 0 : 0; will stop at '\x00_\x00\x00\x05' @ 2259 : 1
+2025/05/05-18:02:11.511 978 Compacting 1@0 + 1@1 files
+2025/05/05-18:02:11.511 978 Generated table #318@0: 11 keys, 522 bytes
+2025/05/05-18:02:11.511 978 Compacted 1@0 + 1@1 files => 522 bytes
+2025/05/05-18:02:11.512 978 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/05-18:02:11.512 978 Delete type=2 #317
+2025/05/05-18:02:11.512 978 Manual compaction at level-0 from '\x00_\x00\x00\x05' @ 2259 : 1 .. '\x00`\x00\x00\x00' @ 0 : 0; will stop at (end)

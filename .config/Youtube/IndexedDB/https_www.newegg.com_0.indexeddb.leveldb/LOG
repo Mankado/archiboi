@@ -1,0 +1,6 @@
+2024/12/12-13:52:37.246 f7e Creating DB /home/tomingo/.config/Youtube/IndexedDB/https_www.newegg.com_0.indexeddb.leveldb since it was missing.
+2024/12/12-13:52:37.247 f7e Reusing MANIFEST /home/tomingo/.config/Youtube/IndexedDB/https_www.newegg.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/12/12-13:52:51.102 f7f Level-0 table #5: started
+2024/12/12-13:52:51.103 f7f Level-0 table #5: 368 bytes OK
+2024/12/12-13:52:51.104 f7f Delete type=0 #3
+2024/12/12-13:52:51.104 f7f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

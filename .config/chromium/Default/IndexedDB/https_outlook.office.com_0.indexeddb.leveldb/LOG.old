@@ -1,0 +1,6 @@
+2025/03/04-20:35:37.358 379f Creating DB /home/tomingo/.config/chromium/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb since it was missing.
+2025/03/04-20:35:37.360 379f Reusing MANIFEST /home/tomingo/.config/chromium/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/04-20:35:37.363 37ae Level-0 table #5: started
+2025/03/04-20:35:37.364 37ae Level-0 table #5: 570 bytes OK
+2025/03/04-20:35:37.365 37ae Delete type=0 #3
+2025/03/04-20:35:37.365 37ae Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

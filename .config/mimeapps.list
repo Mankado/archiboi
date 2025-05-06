@@ -1,0 +1,18 @@
+[Added Associations]
+application/x-fishscript=code-oss.desktop;
+text/javascript=code-oss.desktop;
+text/vnd.trolltech.linguist=code-oss.desktop;
+text/markdown=obsidian.desktop;code-oss.desktop;
+text/plain=code-oss.desktop;
+application/json=code-oss.desktop;
+application/x-zerosize=code-oss.desktop;
+application/x-tiled-tsx=code-oss.desktop;
+
+[Default Applications]
+text/javascript=code-oss.desktop
+text/vnd.trolltech.linguist=code-oss.desktop
+text/plain=code-oss.desktop
+text/markdown=code-oss.desktop
+application/json=code-oss.desktop
+application/x-tiled-tsx=code-oss.desktop
+x-scheme-handler/mailto=chromium.desktop

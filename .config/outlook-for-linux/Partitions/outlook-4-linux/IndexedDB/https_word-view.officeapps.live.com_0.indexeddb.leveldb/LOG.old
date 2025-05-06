@@ -1,0 +1,7 @@
+2025/05/05-12:49:43.824 978 Reusing MANIFEST /home/tomingo/.config/outlook-for-linux/Partitions/outlook-4-linux/IndexedDB/https_word-view.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/05-12:49:43.824 978 Recovering log #3
+2025/05/05-12:49:43.824 978 Reusing old log /home/tomingo/.config/outlook-for-linux/Partitions/outlook-4-linux/IndexedDB/https_word-view.officeapps.live.com_0.indexeddb.leveldb/000003.log 
+2025/05/05-13:14:33.523 4613 Level-0 table #5: started
+2025/05/05-13:14:33.524 4613 Level-0 table #5: 885 bytes OK
+2025/05/05-13:14:33.525 4613 Delete type=0 #3
+2025/05/05-13:14:33.525 4613 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2024/12/05-17:36:36.343 6108 Creating DB /home/tomingo/.config/vesktop/sessionData/WebStorage/2/IndexedDB/indexeddb.leveldb since it was missing.
+2024/12/05-17:36:36.345 6108 Reusing MANIFEST /home/tomingo/.config/vesktop/sessionData/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/12/05-18:39:32.797 60f4 Level-0 table #5: started
+2024/12/05-18:39:32.799 60f4 Level-0 table #5: 20446 bytes OK
+2024/12/05-18:39:32.799 60f4 Delete type=0 #3
+2024/12/05-18:39:32.800 60f4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

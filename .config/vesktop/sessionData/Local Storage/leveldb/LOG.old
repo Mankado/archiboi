@@ -1,0 +1,21 @@
+2025/05/05-12:08:30.079 7ab Reusing MANIFEST /home/tomingo/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/05/05-12:08:30.087 7ab Recovering log #42
+2025/05/05-12:08:30.088 7ab Reusing old log /home/tomingo/.config/vesktop/sessionData/Local Storage/leveldb/000042.log 
+2025/05/05-12:09:30.669 7ad Level-0 table #46: started
+2025/05/05-12:09:30.672 7ad Level-0 table #46: 32164 bytes OK
+2025/05/05-12:09:30.673 7ad Delete type=0 #42
+2025/05/05-15:48:44.746 7ad Level-0 table #48: started
+2025/05/05-15:48:44.750 7ad Level-0 table #48: 38311 bytes OK
+2025/05/05-15:48:44.752 7ad Delete type=0 #45
+2025/05/06-12:29:01.581 7ab Level-0 table #50: started
+2025/05/06-12:29:01.585 7ab Level-0 table #50: 35083 bytes OK
+2025/05/06-12:29:01.587 7ab Delete type=0 #47
+2025/05/06-12:29:01.591 7ab Compacting 4@0 + 1@1 files
+2025/05/06-12:29:01.594 7ab Generated table #51@0: 75 keys, 28646 bytes
+2025/05/06-12:29:01.594 7ab Compacted 4@0 + 1@1 files => 28646 bytes
+2025/05/06-12:29:01.595 7ab compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/06-12:29:01.597 7ab Delete type=2 #41
+2025/05/06-12:29:01.597 7ab Delete type=2 #43
+2025/05/06-12:29:01.597 7ab Delete type=2 #46
+2025/05/06-12:29:01.598 7ab Delete type=2 #48
+2025/05/06-12:29:01.598 7ab Delete type=2 #50

@@ -1,0 +1,9 @@
+audio.allow_downgrade=false
+audio.sync_bitrate_enumeration=4
+audio.play_bitrate_non_metered_migrated=true
+connect.dial_devices="[]"
+connect.mdns_devices="[{\"created_timestamp\":1740253722,\"device_id\":\"787e1a9ad31cc86dd78358700d62d77983f7a5f9\",\"device_info\":{\"addresses\":[\"192.168.68.63\"],\"availability\":\"unavailable\",\"brand_display_name\":\"sony_tv\",\"client_id\":\"9b18101888dd42948afd0b8792122bec\",\"device_type\":\"game_console\",\"get_info_json\":\"{\\\"accountReq\\\":\\\"FREE\\\",\\\"activeUser\\\":\\\"\\\",\\\"availability\\\":\\\"UNAVAILABLE\\\",\\\"brandDisplayName\\\":\\\"sony_tv\\\",\\\"clientID\\\":\\\"9b18101888dd42948afd0b8792122bec\\\",\\\"deviceID\\\":\\\"787e1a9ad31cc86dd78358700d62d77983f7a5f9\\\",\\\"deviceType\\\":\\\"GAMECONSOLE\\\",\\\"groupStatus\\\":\\\"NONE\\\",\\\"modelDisplayName\\\":\\\"ps5\\\",\\\"productID\\\":0,\\\"publicKey\\\":\\\"\\\",\\\"remoteName\\\":\\\"PS5-324\\\",\\\"resolverVersion\\\":\\\"1\\\",\\\"scope\\\":\\\"umbrella-tv\\\",\\\"spotifyError\\\":0,\\\"status\\\":101,\\\"statusString\\\":\\\"OK\\\",\\\"tokenType\\\":\\\"default\\\",\\\"version\\\":\\\"2.7.1\\\",\\\"voiceSupport\\\":\\\"NO\\\"}\",\"group_status\":\"NONE\",\"is_group\":false,\"model_display_name\":\"ps5\",\"product_id\":\"0\",\"resolver_version\":\"1\",\"scope\":\"umbrella-tv\",\"should_send_wol\":false,\"token_type\":\"default\"},\"discovery_name\":\"SpZc-A1391E._spotify-connect._tcp.local\",\"display_name\":\"PS5-324\",\"hostname\":\"PS5-A1391E.local\",\"last_seen\":1740253778,\"page_uri\":\"/spConn\",\"port\":41800,\"public_ip\":\"47.5.150.147\",\"required_device_info\":{\"public_key\":\"\",\"remote_name\":\"PS5-324\",\"version\":\"2.7.1\"},\"ttl\":120,\"txt_records\":{\"CPath\":\"/spConn\"},\"verified_ip_idx\":0}]"
+ui.minimize_to_tray=true
+audio.play_bitrate_non_metered_enumeration=4
+audio.play_bitrate_enumeration=4
+app.browser.zoom-level=350

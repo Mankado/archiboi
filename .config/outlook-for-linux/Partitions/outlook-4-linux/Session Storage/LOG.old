@@ -1,0 +1,20 @@
+2025/04/16-17:38:27.160 35a0 Reusing MANIFEST /home/tomingo/.config/outlook-for-linux/Partitions/outlook-4-linux/Session Storage/MANIFEST-000001
+2025/04/16-17:38:27.160 35a0 Recovering log #16
+2025/04/16-17:38:27.161 35a0 Level-0 table #19: started
+2025/04/16-17:38:27.162 35a0 Level-0 table #19: 42129 bytes OK
+2025/04/16-17:38:27.163 35a0 Delete type=0 #16
+2025/04/16-17:41:35.162 35a1 Level-0 table #22: started
+2025/04/16-17:41:35.165 35a1 Level-0 table #22: 35852 bytes OK
+2025/04/16-17:41:35.166 35a1 Delete type=0 #20
+2025/04/16-17:50:57.571 3f6a Level-0 table #24: started
+2025/04/16-17:50:57.575 3f6a Level-0 table #24: 34280 bytes OK
+2025/04/16-17:50:57.576 3f6a Delete type=0 #21
+2025/04/16-17:50:57.577 3f6a Compacting 4@0 + 1@1 files
+2025/04/16-17:50:57.581 3f6a Generated table #25@0: 157 keys, 229662 bytes
+2025/04/16-17:50:57.581 3f6a Compacted 4@0 + 1@1 files => 229662 bytes
+2025/04/16-17:50:57.582 3f6a compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/16-17:50:57.583 3f6a Delete type=2 #14
+2025/04/16-17:50:57.583 3f6a Delete type=2 #17
+2025/04/16-17:50:57.583 3f6a Delete type=2 #19
+2025/04/16-17:50:57.583 3f6a Delete type=2 #22
+2025/04/16-17:50:57.583 3f6a Delete type=2 #24

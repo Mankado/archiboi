@@ -1,0 +1,14 @@
+autologin.saved_credentials="{\"22gj3lwzte5tx3rv4isbx43xa\":[\"22gj3lwzte5tx3rv4isbx43xa\",\"Gd3+44//TNhs5P70wyB42eiXbJVAqn2QlZmf5pl1akshTOzlD8RZ8KwOTEKRElv5qCRfBDnq7w9IQMQw+dwDo5G9827aabIl2HjZ7BrB6DySWqu2HPINtvTAAH7uE3STlKcXdNRy0rg0vIqZ2/myw08vW83mnPCjXUDQDT3kSpGiGihbE3LgyKCWnyPeP+IwDcymHtrevcX2zHSCnDE+eMKWSpU12HDi7jRXJBKlS15Ix3ljn+E6HDJDSxDfqU6RxBv7YWttF9EJP0lOgtnSsBAZ5bHv3aagUotYH9Al66w=\"]}"
+autologin.blob="Gd3+44//TNhs5P70wyB42eiXbJVAqn2QlZmf5pl1akshTOzlD8RZ8KwOTEKRElv5qCRfBDnq7w9IQMQw+dwDo5G9827aabIl2HjZ7BrB6DySWqu2HPINtvTAAH7uE3STlKcXdNRy0rg0vIqZ2/myw08vW83mnPCjXUDQDT3kSpGiGihbE3LgyKCWnyPeP+IwDcymHtrevcX2zHSCnDE+eMKWSpU12HDi7jRXJBKlS15Ix3ljn+E6HDJDSxDfqU6RxBv7YWttF9EJP0lOgtnSsBAZ5bHv3aagUotYH9Al66w="
+es.send-on-startup=true
+core.clock_delta=1
+autologin.username="22gj3lwzte5tx3rv4isbx43xa"
+app.window.position.saved=true
+app.window.position.height=600
+app.window.position.y=500
+storage.last-location="/home/tomingo/.cache/spotify/Storage"
+app.window.state.saved=true
+app.window.position.width=800
+app.window.position.x=880
+autologin.canonical_username="22gj3lwzte5tx3rv4isbx43xa"
+app.last-launched-version="1.2.56.502.ga68d2d4f"

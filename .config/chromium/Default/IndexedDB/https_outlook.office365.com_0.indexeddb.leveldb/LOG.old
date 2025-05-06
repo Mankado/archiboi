@@ -1,0 +1,4 @@
+2025/03/04-17:35:47.054 b6a Reusing MANIFEST /home/tomingo/.config/chromium/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/04-17:35:47.054 b6a Recovering log #9
+2025/03/04-17:35:47.055 b6a Reusing old log /home/tomingo/.config/chromium/Default/IndexedDB/https_outlook.office365.com_0.indexeddb.leveldb/000009.log 
+2025/03/04-17:35:47.055 b6a Delete type=2 #8

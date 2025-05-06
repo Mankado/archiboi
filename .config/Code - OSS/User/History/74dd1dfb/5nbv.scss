@@ -1,0 +1,119 @@
+@import "./mixines/transition.scss";
+
+.notification {
+  background-color: $base;
+  padding: 6px;
+  border: 2px solid $color01;
+  margin-bottom: 6px;
+
+  .description {
+    font-size: 12.5px;
+    font-weight: 400;
+    margin-top: 2px;
+  }
+
+  .icon {
+    color: $color00;
+
+    .img {
+      margin-right: 10px;
+    }
+  }
+
+  .time {
+    color: $color05;
+    margin-right: 10px;
+    border-radius: 10rem;
+  }
+
+  .app-name {
+    opacity: 0.5;
+    font-size: 12px;
+  }
+
+}
+
+
+.notification.critical {
+  border: 2px solid $color04;
+}
+
+window#notifications {
+  all: unset;
+  background-color: transparent;
+  font-size: 14px;
+
+  .notifications {
+    margin: 4.8px;
+  }
+}
+
+
+#notification-center {
+  background-color: $base;
+  color: $color01;
+  border: 3px solid $color03;
+  // border-radius: $border-radius;
+
+  .notifications-fallback {
+    background-color: $bg-alt;
+    border: $border;
+    border-radius: $border-radius;
+    color: transparentize($color01, 0.8)
+  }
+
+
+  .notification {
+    background-color: $color00;
+    border: none;
+    border-radius: $border-radius;
+
+    .notification-image {
+      border-radius: $border-radius;
+    }
+  }
+
+  .notification.critical {
+    border: 2px solid $color04;
+  }
+
+  .notifications-header {
+    padding: 4px;
+    border-radius: $border-radius;
+
+    separator {
+      background-color: $color07;
+    }
+
+    label {
+      font-size: 20px;
+    }
+
+    .notifications-disabled {
+      background-color: $color05;
+
+      image {
+        color: $color00;
+      }
+    }
+
+
+    button {
+      background-color: $color00;
+      min-height: 1.8rem;
+      border-radius: 4px;
+      padding: 6px;
+      min-width: 20px;
+      min-height: 20px;
+
+      &:hover {
+        @include transition-color;
+        background-color: $color03;
+
+        image {
+          color: $color00;
+        }
+      }
+    }
+  }
+}

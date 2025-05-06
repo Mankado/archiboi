@@ -1,0 +1,12 @@
+[Unit]
+Description=Backup script
+
+[Service]
+ExecStart=~/backup_arch.sh
+Type=simple
+# If the script might run indefinitely, leave it as is. If you know it should stop eventually,
+# ensure the script handles that gracefully or use a timeout:
+# TimeoutStartSec=3600 # e.g. 1 hour limit
+
+[Install]
+WantedBy=multi-user.target

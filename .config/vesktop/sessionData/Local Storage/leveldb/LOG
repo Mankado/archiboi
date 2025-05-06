@@ -1,0 +1,6 @@
+2025/05/06-14:03:56.042 b37 Reusing MANIFEST /home/tomingo/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/05/06-14:03:56.050 b37 Recovering log #49
+2025/05/06-14:03:56.051 b37 Reusing old log /home/tomingo/.config/vesktop/sessionData/Local Storage/leveldb/000049.log 
+2025/05/06-14:04:10.431 b39 Level-0 table #54: started
+2025/05/06-14:04:10.434 b39 Level-0 table #54: 46153 bytes OK
+2025/05/06-14:04:10.436 b39 Delete type=0 #49
